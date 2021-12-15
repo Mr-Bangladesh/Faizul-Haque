@@ -1,0 +1,129 @@
+
+nav {
+	padding-left: 40px;
+}
+
+.common-area {
+	padding-top: 100px;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;
+}
+
+.common-heading {
+	text-align: center;
+	font-weight: normal;
+	padding-bottom: 40px;
+}
+
+/* Intro */
+
+.intro-area {
+	margin-top: 70px;
+	padding-left: 40px;
+	padding-right: 40px;
+	box-sizing: border-box;
+}
+
+.intro-heading {
+	text-align: center;
+	font-weight: normal;
+	padding-bottom: 30px;
+}
+
+.intro-image {
+	height: 400px;
+	border-radius: 10%;
+	margin-left: 200px;
+}
+.intro-name {
+	font-weight: normal;
+	font-family: Bradley Hand ITC;
+}
+
+/* skills */
+
+
+.skills-list {
+	margin-left: 70px;
+}
+
+.dev-icons {
+	padding-left: 0;
+	list-style: none;
+	font-size: 3rem;
+	margin-bottom: 0;
+	margin-top: 0;
+	text-align: center;
+}
+
+.dev-icons ul {
+	display: block;
+	list-style-type: disc;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	padding-inline-start: 40px;
+}
+
+.software-skill-inline {
+	display: inline-block;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+/* Experience */
+
+
+.experience-list {
+	text-align: center;
+}
+
+/* Education */
+
+
+.education-list {
+	margin-left: 60px;
+}
+/* Contests */
+
+/* Problem Solving */
+
+
+/* Achievements and Certificates */
+
+
+/* Projects */
+
+
+/* Contact */
+
+.contact-area {
+	margin: 0 auto;
+	max-width: 800px;
+	margin-top: 100px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 60px;
+	box-sizing: border-box;
+}
+
+.contact-heading {
+	text-align: center;
+	font-weight: normal;
+	padding-bottom: 20px;
+}
+
+.contact-btn {
+	text-align: center;
+}
+
+.contact-btn button {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.my-email {
+	color : red;
+}
